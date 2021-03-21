@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/anacaroliness9/anacaroliness9/main/ana_header.png "Header")
 
-### Hi there 👋 I'm Ana, welcome to my GitHub! <img width="30" src=https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" alt="party blob" />
+### Hi there 👋 I'm Ana, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" alt="party blob" />
 
 <!--
 **anacaroliness9/anacaroliness9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
