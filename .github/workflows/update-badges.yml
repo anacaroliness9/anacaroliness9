@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 0am UTC every day
-    - cron: "02 22 * * *"
+    - cron: "15 22 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
-          ACCLAIM_USER: ana-caroline-sanchez-silva
+        ACCLAIM_USER: ana-caroline-sanchez-silva
