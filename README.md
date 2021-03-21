@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/anacaroliness9/anacaroliness9/main/AnA CAROLINE SANCHEZ silva - Copy.png "Header")]
+[![Header](https://raw.githubusercontent.com/anacaroliness9/anacaroliness9/main/ana_header.png "Header")]
 
 ### Hi there 👋
 
