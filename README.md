@@ -2,13 +2,13 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-<p>I'm a cloud solution architect <strong><a href="https://microsoft.com/">@microsoft</a></strong> focused on data and AI. 
+<p>I'm a cloud solution architect focused on data and AI at <strong><a href="https://microsoft.com/">Microsoft</a></strong>. 
 
 I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, network management systems, business Intelligence and big data. 
 
 Although, what enchanted me the most was working with data projects because today we have an huge amount of data everywhere and using the right technologies, we can get answers to solve big problems, impacting all society and making a world better place.
 
-Some data projects that are already making the world a better place: <a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a>
+Some data projects that are already making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>
 
 
 <a href="https://www.linkedin.com/in/anacaroliness9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
@@ -32,6 +32,21 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaroliness9&theme=dracula" width="40%" /></a>
 
 
-📕 **MY BADGES**
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+📕 **My Current Certifications**
+
+<a href="https://www.youracclaim.com/badges/f8384cca-2338-4cfa-adff-e32f9d8fb101"><img src="https://images.youracclaim.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals"
+   title="Architecture" width="15%" /> </a> 
+<a href="https://www.youracclaim.com/badges/104de99d-fac0-46fc-bcf0-06ae1f4c84b1"><img src="https://images.youracclaim.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals"
+   title="Architecture" width="15%" /> </a> 
+<a href="https://www.youracclaim.com/badges/9817c146-8806-4552-86c7-b346a0c62142"><img src="https://images.youracclaim.com/size/680x680/images/2b31a8f4-92c4-468d-87eb-33115d97f6f5/AWS-DataAnalytics-Specialty-2020.png" alt="AWS Certified Data Analytics – Specialty"
+   title="Architecture" width="15%" /> </a> 
+
+
+📕 **My Old Certifications**
+
+<div><a href="https://drive.google.com/file/d/17kpK0zh4Ey5dQx0eVGl9WYQebisiV0SS/view"><img src="cloudera-badge.png" alt="CCA Administrator"
+   title="Architecture" width="13%" style="float:left;"/> </a> </div>
+
+   <!--
+<a href="https://drive.google.com/file/d/0B20aGN1khT3pMWxEU2ZkZG5CUmc/view"><img src="https://www.datacrunchlab.com/wp-content/uploads/2019/04/Certified-IBM-Analytics-badge.png" alt="IBM Certified Administrator - Cognos 10 BI"
+   title="Architecture" width="20%" style="float:left; /> </a> -->
