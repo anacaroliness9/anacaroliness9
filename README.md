@@ -11,15 +11,20 @@ Although, what enchanted me the most was working with data projects because toda
 Some data projects that are already making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>
 
 ## 👩‍💻 About me
-* 💻 Love Programmming
-* 🌟 My favorite programming language is Python
-* 👩‍🏫 Love teach and share my tecnology knowlodge
-* 🔭 As a challange lover, I am venturing into the data science world
+* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
+* 💻 Love Programming
+* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1616374456~hmac=827cc2883551888fe883e21e2026085d" alt="python" /> My favorite programming language is Python
+* 👩‍🏫 Love teach and share my technology knowledge
+* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/893/893216.svg?token=exp=1616374624~hmac=5e3fc94d29e7d0f3d69d37f53dee382d" alt="data science" /> As a challenge lover, I am venturing into the data science world
 * 🏞️ I love travel, the image above is from one of the beatiful places that I went, the <a href="https://www.google.com/maps/place/51%C2%B026'25.4%22N+116%C2%B032'30.3%22W/@51.4403895,-116.5439459,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d51.4403895!4d-116.5417572">Emerald Lake</a> 
-* 🐶 I have the best friend in the world, his name is <a href="https://www.instagram.com/littlefrodothedog/">Frodo</a>
+* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/2527/2527524.svg?token=exp=1616374734~hmac=3db24be9a325662b416e023fec60b1e5" alt="york" /> I have the best friend in the world, his name is <a href="https://www.instagram.com/littlefrodothedog/">Frodo</a>
+* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/1810/1810061.svg?token=exp=1616374864~hmac=9eb1d6141ec79399318ce23090c54092" alt="york" /> I already played in an orquestra in my college days, I played transversal flute
+
+##  📧How to contact me
 
 <a href="https://www.linkedin.com/in/anacaroliness9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaroliness9&theme=dracula" width="40%" /></a>
 
