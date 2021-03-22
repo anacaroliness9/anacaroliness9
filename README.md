@@ -66,10 +66,6 @@ Some data projects that are already making the world a better place: <strong><a 
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1616378978~hmac=a3bb21e25aaab6d29d59a5f2c2d8d9e7" /></code>
 </a>
 
-
-
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
-   
   <p align="center">
     Se you! 
 
