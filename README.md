@@ -58,6 +58,7 @@ Some data projects that are already making the world a better place: <strong><a 
   <i>Let's connect! Find me on...</i>
    
 <p align="center">
+
 <a href="https://www.linkedin.com/in/anacaroliness9/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616379024~hmac=290a6044122953558751534f13255940" /></code>
 </a>
@@ -73,8 +74,8 @@ Some data projects that are already making the world a better place: <strong><a 
     Se you! 
 
   <p align="center">    
-<img src="ana-gif.gif" alt="CCA Administrator"
-title="Architecture" width="35%" />
+<img src="ana-gif.gif" 
+title="This is how I feel when I am programming \o/" width="35%" />
   </p>
 </p>
 
