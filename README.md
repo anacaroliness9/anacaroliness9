@@ -60,10 +60,10 @@ Some data projects that are already making the world a better place: <strong><a 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/anacaroliness9/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616379024~hmac=290a6044122953558751534f13255940" /></code>
+  <code><img alt="My linkedin" width="32" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1616382146~hmac=ff1887acb22866be48cb31083118247d" /></code>
 </a>
 <a href="mailto:anacaroliness9@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/732/732223.svg?token=exp=1616378978~hmac=a3bb21e25aaab6d29d59a5f2c2d8d9e7" /></code>
+<code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/552/552486.svg?token=exp=1616382007~hmac=de0e890496b8fe34700b77886ba0704c" /></code>
 </a>
 
   <p align="center">
