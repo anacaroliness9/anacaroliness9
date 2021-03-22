@@ -86,6 +86,9 @@ Some data projects that are already making the world a better place: <strong><a 
 
 <div><a href="https://drive.google.com/file/d/17kpK0zh4Ey5dQx0eVGl9WYQebisiV0SS/view"><img src="cloudera-badge.png" alt="CCA Administrator"
    title="CCA Administrator" width="13%" style="float:left;"/> </a> </div>
+   <a href="https://drive.google.com/file/d/0B20aGN1khT3pMWxEU2ZkZG5CUmc/view"><img src="https://www.datacrunchlab.com/wp-content/uploads/2019/04/Certified-IBM-Analytics-badge.png" alt="IBM Certified Administrator - Cognos 10 BI"
+   title="IBM Certified Administrator - Cognos 10 BI" width="17%" style="float:left; /> </a> 
+
 <br><br><br><br>
 <br>
 
