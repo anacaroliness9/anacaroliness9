@@ -6,7 +6,7 @@
 
 I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, network management systems, business Intelligence and big data (data engineering and architecture). 
 
-Although, what enchanted me the most was working with data projects because today we have an huge amount of data everywhere and using the right technologies, we can get answers to solve big problems, impacting all society and making a world better place.
+Although, what enchanted me the most was working with data projects because today we have an huge amount of data everywhere and using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
 
 Some data projects that are already making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>
 <br>
