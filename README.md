@@ -6,20 +6,20 @@
 
 I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, network management systems, business Intelligence and big data (data engineering and architecture). 
 
-Although, what enchanted me the most was working with data projects because today we have an huge amount of data everywhere and using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
+What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
 
-Some data projects that are already making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>
+Take a look in some data projects which have already been making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>.
 <br>
 <br>
 ## 👩‍💻 About me
 * <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
-* 💻 Love Programming
-* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/1387/1387537.svg?token=exp=1616375499~hmac=c76d1690acbce9fe54821504fc9db328" alt="python" /> My favorite programming language is Python
-* 👩‍🏫 Love teach and share knowledge
-* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/893/893216.svg?token=exp=1616374624~hmac=5e3fc94d29e7d0f3d69d37f53dee382d" alt="data science" /> As a challenge lover, I am venturing into the data science world
-* 🏞️ I love travel, the image above is from one of the most beatiful places that I went, the <a href="https://www.google.com/maps/place/51%C2%B026'25.4%22N+116%C2%B032'30.3%22W/@51.4403895,-116.5439459,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d51.4403895!4d-116.5417572">Emerald Lake</a> 
-* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/2527/2527524.svg?token=exp=1616374734~hmac=3db24be9a325662b416e023fec60b1e5" alt="york" /> I have the best friend in the world, his name is <a href="https://www.instagram.com/littlefrodothedog/">Frodo</a>
-* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/1810/1810061.svg?token=exp=1616374864~hmac=9eb1d6141ec79399318ce23090c54092" alt="flute" /> I already played in an orquestra in my college days, I played transversal flute
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
+* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
+* 👩‍🏫 Love teaching and sharing knowledge
+* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
+* 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, <a href="https://www.google.com/maps/place/51%C2%B026'25.4%22N+116%C2%B032'30.3%22W/@51.4403895,-116.5439459,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d51.4403895!4d-116.5417572">Emerald Lake</a> is one of the most beatiful places that I have ever been to
+* <img width="20" src="https://th.bing.com/th/id/R1f76efdfd131daf44c7af1ef4a9026d9?rik=qG6sBpJpY%2bjpIQ&riu=http%3a%2f%2fclipart-library.com%2fnew_gallery%2f266-2666042_yorkie-emojis-for-dog-lovers-messages-sticker-8.png&ehk=v%2f47NW1%2fqJ0dk5fNj7OxkYcAOK8XxZeZhUPpr4DjV%2bc%3d&risl=&pid=ImgRaw" alt="" /> <a href="https://www.instagram.com/littlefrodothedog/">Frodo</a> is the best friend I have, and guess what? He has four paws 🐾🐾 
+* <img width="20" src="https://image.flaticon.com/icons/png/512/1184/1184644.png" alt="" /> I already played in an orquestra in my college days, I played the transversal flute!
 <br>
 <br>
 
@@ -42,8 +42,8 @@ Some data projects that are already making the world a better place: <strong><a 
     title="AWS" width="6%" />
 - 🐘 Big Data Stack
   
-    <img src="https://www.varnaaz.com/wp-content/uploads/2018/02/hadoop.png" alt="Hadoop"
-    title="Hadoop" width="9%" />
+    <img src="https://th.bing.com/th/id/R42d2f8bc61e0be575a92c75596d4c1ae?rik=PkpI%2b0ujscbRhw&riu=http%3a%2f%2fassets.stickpng.com%2fthumbs%2f58480813cef1014c0b5e48e2.png&ehk=XvPDzfY9zKgcebW0pb9jylhsmfmMq%2bi4eoBC%2bQlsdjY%3d&risl=&pid=ImgRaw" alt="Hadoop"
+    title="Hadoop" width="7%" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark"
     title="Spark" width="9%" />
     <img src="https://learn.g2.com/hubfs/Imported_Blog_Media/Apache_Hive_logo.svg" alt="Hive"
@@ -99,10 +99,10 @@ Some data projects that are already making the world a better place: <strong><a 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/anacaroliness9/">
-  <code><img alt="My linkedin" width="32" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1616382146~hmac=ff1887acb22866be48cb31083118247d" /></code>
+  <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
 </a>
 <a href="mailto:anacaroliness9@hotmail.com">
-<code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/552/552486.svg?token=exp=1616382007~hmac=de0e890496b8fe34700b77886ba0704c" /></code>
+<code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
 </a>
 
   <p align="center">
