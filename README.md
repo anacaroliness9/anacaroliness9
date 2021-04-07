@@ -9,8 +9,9 @@ I've been working with technology since 2012, and during this time I worked with
 What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
 
 Take a look in some data projects which have already been making the world a better place: <strong><a href="https://www.microsoft.com/en-us/ai/ai-for-good">AI for Good</a></strong>.
+
 <br>
-<br>
+
 ## 👩‍💻 About me
 * <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
@@ -20,9 +21,8 @@ Take a look in some data projects which have already been making the world a bet
 * 🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, <a href="https://www.google.com/maps/place/51%C2%B026'25.4%22N+116%C2%B032'30.3%22W/@51.4403895,-116.5439459,17z/data=!4m5!3m4!1s0x0:0x0!8m2!3d51.4403895!4d-116.5417572">Emerald Lake</a> is one of the most beatiful places that I have ever been to
 * <img width="20" src="https://th.bing.com/th/id/R1f76efdfd131daf44c7af1ef4a9026d9?rik=qG6sBpJpY%2bjpIQ&riu=http%3a%2f%2fclipart-library.com%2fnew_gallery%2f266-2666042_yorkie-emojis-for-dog-lovers-messages-sticker-8.png&ehk=v%2f47NW1%2fqJ0dk5fNj7OxkYcAOK8XxZeZhUPpr4DjV%2bc%3d&risl=&pid=ImgRaw" alt="" /> <a href="https://www.instagram.com/littlefrodothedog/">Frodo</a> is the best friend I have, and guess what? He has four paws 🐾🐾 
 * <img width="20" src="https://image.flaticon.com/icons/png/512/1184/1184644.png" alt="" /> I already played in an orquestra in my college days, I played the transversal flute!
-<br>
-<br>
 
+<br>
 
 ## 🛠️Tech Stack
 - 👩‍💻 Programming Languages
@@ -62,13 +62,12 @@ Take a look in some data projects which have already been making the world a bet
     title="Cloudera" width="12%" />
     <img src="https://www.kapacity.com/wp-content/uploads/2020/09/DAT_Stacked_Lock_up_Full_Color@2x-2-400x223.png" alt="databricks"
     title="databricks" width="9%" />
-<br>
+
 <br>
 
 ## 💻Coding Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaroliness9&theme=dracula" width="40%" /></a>
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaroliness9&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=anacaroliness9&theme=dracula" width="62%" />
 <br>
 ## 📕 Certifications
 
@@ -80,7 +79,6 @@ Take a look in some data projects which have already been making the world a bet
    title="Microsoft Certified: Azure Data Fundamentals" width="15%" /> </a> 
 <a href="https://www.youracclaim.com/badges/9817c146-8806-4552-86c7-b346a0c62142"><img src="https://images.youracclaim.com/size/680x680/images/2b31a8f4-92c4-468d-87eb-33115d97f6f5/AWS-DataAnalytics-Specialty-2020.png" alt="AWS Certified Data Analytics – Specialty"
    title="AWS Certified Data Analytics – Specialty" width="15%" /> </a> 
-
 
 **Old ones**
 
@@ -139,6 +137,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://github-readme-stats.vercel.app/api?username=anacaroliness9&theme=dracula" width="100%" /></a>
 -->
 
