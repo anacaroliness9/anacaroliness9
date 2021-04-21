@@ -73,6 +73,8 @@ Take a look in some data projects which have already been making the world a bet
 
  **Current**
 
+<a href="https://www.credly.com/earner/earned/badge/893cc5ee-75b0-4004-aa44-ad1bb4b3083f"><img src="https://images.credly.com/size/680x680/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals"
+   title="Microsoft Certified: Azure AI Fundamentals" width="15%" /> </a> 
 <a href="https://www.youracclaim.com/badges/f8384cca-2338-4cfa-adff-e32f9d8fb101"><img src="https://images.youracclaim.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals"
    title="Microsoft Certified: Azure AI Fundamentals" width="15%" /> </a> 
 <a href="https://www.youracclaim.com/badges/104de99d-fac0-46fc-bcf0-06ae1f4c84b1"><img src="https://images.youracclaim.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals"
