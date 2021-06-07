@@ -73,9 +73,9 @@ Take a look in some data projects which have already been making the world a bet
 
  **Current**
 
-<a href="https://images.credly.com/size/220x220/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"><img src="https://images.credly.com/size/220x220/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" alt="Microsoft Certified: Azure AI Engineer"
+<a href="https://www.credly.com/badges/ff0818f9-9d04-47b1-9251-e43d1165e183"><img src="https://images.credly.com/size/220x220/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" alt="Microsoft Certified: Azure AI Engineer"
    title="Microsoft Certified: Azure AI Fundamentals" width="15%" /> </a> 
-   <a href="https://images.credly.com/size/220x220/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png"><img src="https://images.credly.com/size/680x680/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png" alt="Microsoft Certified: Azure AI Engineer"
+   <a href="https://www.credly.com/badges/893cc5ee-75b0-4004-aa44-ad1bb4b3083f"><img src="https://images.credly.com/size/680x680/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png" alt="Microsoft Certified: Azure AI Engineer"
    title="Microsoft Certified: Azure AI Fundamentals" width="15%" /> </a> 
 <a href="https://www.youracclaim.com/badges/f8384cca-2338-4cfa-adff-e32f9d8fb101"><img src="https://images.youracclaim.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals"
    title="Microsoft Certified: Azure AI Fundamentals" width="15%" /> </a> 
